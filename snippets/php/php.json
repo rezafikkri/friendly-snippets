@@ -251,5 +251,10 @@
         "prefix": "vd",
         "body": ["var_dump($0);"],
         "description": "var_dump"
+    },
+    "Short Echo": {
+        "prefix": "phpp",
+        "body": "<?= $0 ?>",
+        "description": "Short echo"
     }
 }
