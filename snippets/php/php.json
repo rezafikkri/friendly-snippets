@@ -262,5 +262,10 @@
             ""
         ],
         "description": "Enum definition"
+    },
+    "Short Echo": {
+        "prefix": "phpp",
+        "body": "<?= $0 ?>",
+        "description": "Short echo"
     }
 }
